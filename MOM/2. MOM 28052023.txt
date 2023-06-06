@@ -1,0 +1,34 @@
+Title: 
+
+1. Linear Programming (Simplex Method algorithm).
+
+2. Constraint and Assumptions need to be established accordingly. 
+a. Objective Functions:
+1. The total travel distance of all vehicles to customers.
+
+b. Assumptions:
+1. The supply of products in the store warehouse is greater than the quantity sold, and there is no
+out-of-stock phenomenon.
+2. The distribution path is a one-way distribution between stores and customers, involving only
+product distribution and excluding the task of recovery returns.
+3. All distribution vehicles are of uniform specifications.
+4. The speed of the delivery vehicle does not change during the delivery route, and there is no
+traffic congestion on the delivery road.
+
+c. Constraints:
+1. 
+
+d. Dataset
+2. We limit to 10-30 observations.
+
+3. Matlab/Octave/Python might be used.
+
+-------
+
+Work assignment delegation:
+
+1. Chapter 1,2,6,PPT = Kris and Yi Jie
+2. Chapter 3,4,5 = Jie Min and Ani
+
+-------
+

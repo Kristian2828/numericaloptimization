@@ -1,0 +1,38 @@
+Topic: Traffic.
+
+Objective: Minimize time cost and travel distance.
+
+A. Content: 
+1. Introduction.
+2. Problem description and Formulation
+a. Parameters and decision variables
+
+3. Genetic algorithm
+4. Numerical experiments
+5. Conclusion.
+
+B. Dataset: 
+1. Prev. paper: 
+2. https://tianchi.aliyun.com/dataset/106807?t=1684027132727
+
+C. Added point: Octave usage.
+
+D. Preliminary idea: 
+1. Each person comes up with one tech (if possible). 
+2. Metrics each of tech.
+3. Techs should be coming lectures.
+
+E. Teams docs.
+
+F. Expected date to complete: 
+1. Report: 9 June 2023.
+2. Video recording: 14 June 2023.
+
+-------------
+
+2nd meeting: 26 May 2023, 10 pm. 
+
+
+
+
+
